@@ -68,7 +68,7 @@ class MainActivity : AppCompatActivity() {
 
         // Create configuration object for the viewfinder use case
         val previewConfig = PreviewConfig.Builder().apply {
-            setTargetResolution(Size(640, 480))
+            setTargetResolution(Size(1440, 1080))
         }.build()
 
 
