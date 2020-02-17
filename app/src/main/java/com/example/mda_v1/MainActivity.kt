@@ -31,6 +31,7 @@ private const val REQUEST_CODE_PERMISSIONS = 10
 // This is an array of all the permission specified in the manifest.
 private val REQUIRED_PERMISSIONS = arrayOf(Manifest.permission.CAMERA)
 
+// Test uplaod
 
 class MainActivity : AppCompatActivity() {
 
